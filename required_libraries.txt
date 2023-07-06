@@ -1,0 +1,5 @@
+googletrans
+textblob
+pyttsx3 
+pywin 32
+pyaudio
