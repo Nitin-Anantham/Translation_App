@@ -29,8 +29,6 @@ Install other dependencie from the requirements.txt file.
 
 # Demo:
 
-![Screenshot (1074)](https://github.com/Nitin-Anantham/Translation_App/assets/122308011/e07c1e60-950d-4da4-928f-e2db5f9fbae7)
-
-
+![Screenshot (1074)](https://github.com/Nitin-Anantham/Translation_App/assets/122308011/38351bd0-e3ee-417a-a1a8-525199a8e485)
 
   
