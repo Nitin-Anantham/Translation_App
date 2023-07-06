@@ -20,6 +20,8 @@ Easy Integration: Developers can easily integrate this translation functionality
 
 # Usage:
 
+Run the Translation_App.py file
+
 Install the required dependencies by running the following command:
   pip install textblob
   
